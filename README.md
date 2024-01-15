@@ -1,4 +1,4 @@
-# Caligrafy meets ChatGPT
+# Caligrafy meets OpenAI
 ![Caligrafy](https://github.com/caligrafy/caligrafy-openai-course/blob/main/caligrafy_openai2.png)
 
 ## Welcome to the course
@@ -11,18 +11,15 @@
 - Databases, Models & Relationships
 - REST-ful APIs
 
-## Are there any course requirements or prerequisites?
-- Students need to have an Apache/PHP/MySQL environment ready to use on their machines
-- Basic Knowledge of PHP
-- Basic Knowledge of MySql
-- Basic Knowledge of Caligrafy (Udemy Course: Introduction to Caligrafy)
+## Are there any course requirements or prerequisites
 - Basic Knowledge of HTML/CSS/Javascript
-- Basic Knowledge of Vue JS
+- Basic Knowledge of PHP
+- Basic Knowledge of Caligrafy (Udemy Course: Introduction to Caligrafy)
 
 ## Who this course is for:
-- Beginner PHP developers
-- Beginner Javascript developers
-- Beginner Vue JS developers
-- Beginner Caligrafy enthusiasts
+- Generative AI enthusiasts
+- AI enthusiasts
+- PHP developers
+- Caligrafy enthusiasts
 - Computer Science or Engineering Students
 - Entrepreneurs looking to learn programming
