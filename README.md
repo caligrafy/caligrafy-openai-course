@@ -4,12 +4,9 @@
 ## Welcome to the course
 
 ## What you’ll learn
-- Use the OpenAI
-- MVC architecture and server-side frameworks
-- Routing, Models and Controllers
-- Creating Views with Vue JS
-- Databases, Models & Relationships
-- REST-ful APIs
+- Explore the Caligrafy/OpenAI integration
+- Use the Caligrafy OpenAI module to engage with OpenAI GPTs and DALL.E
+- Use the Caligrafy Assistant module to easily create and manage OpenAI Assistants
 
 ## Are there any course requirements or prerequisites
 - Basic Knowledge of HTML/CSS/Javascript
