@@ -13,6 +13,7 @@
 - Use the Caligrafy Assistant module to easily create and manage OpenAI Assistants
 
 ## Are there any course requirements or prerequisites
+- An OpenAI account needs to be created and needs to be funded ($5-10)
 - Basic Knowledge of HTML/CSS/Javascript
 - Basic Knowledge of PHP
 - Basic Knowledge of Caligrafy (Udemy Course: Introduction to Caligrafy)
