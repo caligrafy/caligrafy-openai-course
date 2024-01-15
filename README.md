@@ -1,16 +1,8 @@
 # Caligrafy meets ChatGPT
 This course shows how Caligrafy integrates with chatgpt to augment the framework with generative AI capabilities
-
+![Caligrafy](https://github.com/caligrafy/caligrafy-openai-course/blob/main/caligrafy_openai2.png)
 
 ## Welcome to the course
-
-Caligrafy is a modern MVC framework that leverages the powerful technologies that fuel each of the M (Model), the V (View) and the C (Controller). Artificial Intelligence has made significant strides in the last couple of years especially - unexpectedly - in the creative world. OpenAI has been a major player in bringing generative artificial intelligence to the mass. For those of you who have not heard about generative AI before, it is the ability of the machine to create and produce new ideas from what it already knows. ChatGPT and Midjourney, to name a few, are examples of generative AI that create art (text or images) out of simple sentences provided by a user.
-
-Caligrafy integrates seamlessly with many of the AI models (GPT, DALL.E etc.) provided by OpenAI to give the opportunity for developers to use them easily and to build next generation applications. This is an outstanding course that will show you how to augment server-side frameworks such as Caligrafy with AI capabilities using the OpenAI large language models.
-
-***
-[Get Started](https://github.com/caligrafy/caligrafy-vue-course/wiki)
-***
 
 ## What you’ll learn
 - Introduction to the Caligrafy framework
