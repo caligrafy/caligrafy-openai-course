@@ -1,5 +1,4 @@
 # Caligrafy meets ChatGPT
-This course shows how Caligrafy integrates with chatgpt to augment the framework with generative AI capabilities
 ![Caligrafy](https://github.com/caligrafy/caligrafy-openai-course/blob/main/caligrafy_openai2.png)
 
 ## Welcome to the course
