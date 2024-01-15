@@ -4,7 +4,7 @@
 ## Welcome to the course
 
 ## What you’ll learn
-- Introduction to the Caligrafy framework
+- Use the OpenAI
 - MVC architecture and server-side frameworks
 - Routing, Models and Controllers
 - Creating Views with Vue JS
