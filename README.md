@@ -3,6 +3,10 @@
 
 ## Welcome to the course
 
+***
+[Get Started](https://github.com/caligrafy/caligrafy-openai-course/wiki)
+***
+
 ## What you’ll learn
 - Explore the Caligrafy/OpenAI integration
 - Use the Caligrafy OpenAI module to engage with OpenAI GPTs and DALL.E
